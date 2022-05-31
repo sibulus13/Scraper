@@ -1,0 +1,190 @@
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+</head>
+<table border="0" cellpadding="3" style="border-collapse: collapse" width="100%" bordercolor="#000000" id="table1">
+<tr>
+<td bgcolor="black" colspan="11"><b><font face="Arial" color="white" size="4">YouTube Playlist Export</font></b></td>
+</tr>
+<tr>
+<td bgcolor="DDDDDD" style="border: 2px solid #000000">Published Date</td><td bgcolor="DDDDDD" style="border: 2px solid #000000">Video URL</td><td bgcolor="DDDDDD" style="border: 2px solid #000000">Channel</td><td bgcolor="DDDDDD" style="border: 2px solid #000000">Title</td><td bgcolor="DDDDDD" style="border: 2px solid #000000">Description</td>
+</tr>
+<tr>
+<td bgcolor="FFFFFF" height="19" valign="top">7/11/2016 9:31:34 AM</td>
+<td bgcolor="FFFFFF" height="19" valign="top">https://www.youtube.com/watch?v=0JUN9aDxVmI</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Harvard University</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 1</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Logistics, course topics, word RAM, predecessor, van Emde Boas, y-fast tries.
+
+Please see Problem 1 of Assignment 1
+at http://people.seas.harvard.edu/~minilek/cs224/fall14/hmwk.html for
+a corrected analysis of the space complexity of van Emde Boas trees</td>
+</tr>
+<tr>
+<td bgcolor="EAFFEA" height="19" valign="top">7/11/2016 9:32:25 AM</td>
+<td bgcolor="EAFFEA" height="19" valign="top">https://www.youtube.com/watch?v=3_o0-zPRQqw</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Harvard University</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 2</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Fusion trees, word-level parallelism, most significant set bit in constant time.</td>
+</tr>
+<tr>
+<td bgcolor="FFFFFF" height="19" valign="top">7/11/2016 9:33:45 AM</td>
+<td bgcolor="FFFFFF" height="19" valign="top">https://www.youtube.com/watch?v=WqBc0ZCU4Uw</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Harvard University</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 3</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Hashing: load balancing, k-wise independence, chaining, linear probing.</td>
+</tr>
+<tr>
+<td bgcolor="EAFFEA" height="19" valign="top">7/11/2016 9:34:29 AM</td>
+<td bgcolor="EAFFEA" height="19" valign="top">https://www.youtube.com/watch?v=edOWKZE1t84</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Harvard University</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 4</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Symmetrization, hashing: linear probing (5-wise indep.), bloom filters, cuckoo hashing, bloomier filters.</td>
+</tr>
+<tr>
+<td bgcolor="FFFFFF" height="19" valign="top">7/11/2016 10:59:01 AM</td>
+<td bgcolor="FFFFFF" height="19" valign="top">https://www.youtube.com/watch?v=rLMikQTOVnI</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Harvard University</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 5</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Hashing: cuckoo hashing analysis, power of two choices.</td>
+</tr>
+<tr>
+<td bgcolor="EAFFEA" height="19" valign="top">7/11/2016 9:35:31 AM</td>
+<td bgcolor="EAFFEA" height="19" valign="top">https://www.youtube.com/watch?v=gxp_FrgTkQI</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Harvard University</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 6</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Amortized analysis, binomial heaps, Fibonacci heaps.</td>
+</tr>
+<tr>
+<td bgcolor="FFFFFF" height="19" valign="top">7/11/2016 9:39:32 AM</td>
+<td bgcolor="FFFFFF" height="19" valign="top">https://www.youtube.com/watch?v=LbX51mey3vo</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Harvard University</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 7</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Splay trees.</td>
+</tr>
+<tr>
+<td bgcolor="EAFFEA" height="19" valign="top">7/11/2016 9:48:39 AM</td>
+<td bgcolor="EAFFEA" height="19" valign="top">https://www.youtube.com/watch?v=aHW6HKVC-SY</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Harvard University</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 8</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Online algorithms, competitive analysis, move-to-front, paging.</td>
+</tr>
+<tr>
+<td bgcolor="FFFFFF" height="19" valign="top">7/11/2016 2:42:59 PM</td>
+<td bgcolor="FFFFFF" height="19" valign="top">https://www.youtube.com/watch?v=KBVkri8k3Ao</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Harvard University</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 9</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Randomized paging, packing/covering linear programs, weak duality, approximate complementary slackness, primal/dual online algorithms (2-competitive deterministic ski rental).</td>
+</tr>
+<tr>
+<td bgcolor="EAFFEA" height="19" valign="top">7/11/2016 11:08:15 AM</td>
+<td bgcolor="EAFFEA" height="19" valign="top">https://www.youtube.com/watch?v=Jsg9TwLRTbM</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Harvard University</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 10</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Online primal/dual: e/(e-1) ski rental, set cover; approximation algorithms via dual fitting: set cover.</td>
+</tr>
+<tr>
+<td bgcolor="FFFFFF" height="19" valign="top">7/11/2016 11:08:48 AM</td>
+<td bgcolor="FFFFFF" height="19" valign="top">https://www.youtube.com/watch?v=vnS9_NKoEKI</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Harvard University</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 11</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Approximation algorithms via dual fitting (wrap-up), LP integrality gaps, definitions of PTAS/FPTAS/FPRAS, PTAS for knapsack.</td>
+</tr>
+<tr>
+<td bgcolor="EAFFEA" height="19" valign="top">7/11/2016 11:09:49 AM</td>
+<td bgcolor="EAFFEA" height="19" valign="top">https://www.youtube.com/watch?v=2Gl-yNso0_0</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Harvard University</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 12</td>
+<td bgcolor="EAFFEA" height="19" valign="top">FPTAS (knapsack), FPRAS (DNF counting), semidefinite programming, Goemans-Williamson MAXCUT algorithm.</td>
+</tr>
+<tr>
+<td bgcolor="FFFFFF" height="19" valign="top">7/11/2016 11:17:52 AM</td>
+<td bgcolor="FFFFFF" height="19" valign="top">https://www.youtube.com/watch?v=VuM1WnwEMRQ</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Harvard University</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 13</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Guest lecture: Rong Ge.</td>
+</tr>
+<tr>
+<td bgcolor="EAFFEA" height="19" valign="top">7/11/2016 11:19:13 AM</td>
+<td bgcolor="EAFFEA" height="19" valign="top">https://www.youtube.com/watch?v=U7158Q-2rJc</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Harvard University</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 15</td>
+<td bgcolor="EAFFEA" height="19" valign="top">linear programming: standard form, vertices, bases, simplex.</td>
+</tr>
+<tr>
+<td bgcolor="FFFFFF" height="19" valign="top">7/11/2016 2:29:30 PM</td>
+<td bgcolor="FFFFFF" height="19" valign="top">https://www.youtube.com/watch?v=4A5LiJpPDRw</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Harvard University</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 16</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Simplex wrap-up, strong duality, complementary slackness, ellipsoid, intro to interior point.</td>
+</tr>
+<tr>
+<td bgcolor="EAFFEA" height="19" valign="top">7/11/2016 2:31:04 PM</td>
+<td bgcolor="EAFFEA" height="19" valign="top">https://www.youtube.com/watch?v=PPCnYiTpbCo</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Harvard University</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 17</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Path-following interior point, first order methods (gradient descent).</td>
+</tr>
+<tr>
+<td bgcolor="FFFFFF" height="19" valign="top">7/11/2016 2:31:37 PM</td>
+<td bgcolor="FFFFFF" height="19" valign="top">https://www.youtube.com/watch?v=kqt1YV9dEoE</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Harvard University</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 18</td>
+<td bgcolor="FFFFFF" height="19" valign="top">second order methods (Newton's method), path-following interior point wrap-up.</td>
+</tr>
+<tr>
+<td bgcolor="EAFFEA" height="19" valign="top">7/11/2016 2:32:13 PM</td>
+<td bgcolor="EAFFEA" height="19" valign="top">https://www.youtube.com/watch?v=R9mT5CtdHLg</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Harvard University</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 19</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Learning from experts, multiplicative weights.</td>
+</tr>
+<tr>
+<td bgcolor="FFFFFF" height="19" valign="top">7/11/2016 2:33:45 PM</td>
+<td bgcolor="FFFFFF" height="19" valign="top">https://www.youtube.com/watch?v=TdTFYVjzs1I</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Harvard University</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 20</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Linear programming via multiplicative weights, flows, augmenting paths.</td>
+</tr>
+<tr>
+<td bgcolor="EAFFEA" height="19" valign="top">7/11/2016 2:35:01 PM</td>
+<td bgcolor="EAFFEA" height="19" valign="top">https://www.youtube.com/watch?v=rfTt7k6Nv-I</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Harvard University</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 21</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Scaling for max flow, blocking flow.</td>
+</tr>
+<tr>
+<td bgcolor="FFFFFF" height="19" valign="top">7/11/2016 2:35:20 PM</td>
+<td bgcolor="FFFFFF" height="19" valign="top">https://www.youtube.com/watch?v=HFqO_8Eoc1U</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Harvard University</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 22</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Preferred path decomposition, link-cut trees.</td>
+</tr>
+<tr>
+<td bgcolor="EAFFEA" height="19" valign="top">7/11/2016 2:35:50 PM</td>
+<td bgcolor="EAFFEA" height="19" valign="top">https://www.youtube.com/watch?v=nDLe6_sPSfs</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Harvard University</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 23</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Heavy-light decomposition, O(log2n) amortized analysis of link-cut trees, min cost max flow, min cost circulation, shortest augmenting paths.</td>
+</tr>
+<tr>
+<td bgcolor="FFFFFF" height="19" valign="top">7/11/2016 2:39:13 PM</td>
+<td bgcolor="FFFFFF" height="19" valign="top">https://www.youtube.com/watch?v=GAKpnKLnJtc</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Harvard University</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 24</td>
+<td bgcolor="FFFFFF" height="19" valign="top">More efficient exponential-time algorithms: exponential divide-and-conquer (TSP), pruned brute force (3-SAT), Schöning's algorithm (3-SAT), inclusion-exclusion (k-colorability).</td>
+</tr>
+<tr>
+<td bgcolor="EAFFEA" height="19" valign="top">7/11/2016 2:39:39 PM</td>
+<td bgcolor="EAFFEA" height="19" valign="top">https://www.youtube.com/watch?v=M42rQM0vC4g</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Harvard University</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 25</td>
+<td bgcolor="EAFFEA" height="19" valign="top">Zeta transform, Möbius inversion, streaming algorithms, necessity of randomization and approximation, distinct elements.</td>
+</tr>
+<tr>
+<td bgcolor="FFFFFF" height="19" valign="top">7/11/2016 2:40:04 PM</td>
+<td bgcolor="FFFFFF" height="19" valign="top">https://www.youtube.com/watch?v=DpxNW0T8CWg</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Harvard University</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Advanced Algorithms (COMPSCI 224), Lecture 26</td>
+<td bgcolor="FFFFFF" height="19" valign="top">Power of random signs: ℓ2 norm estimation, subspace embeddings (regression), Johnson-Lindenstrauss, deterministic point query.</td>
+</tr>
+</table>
